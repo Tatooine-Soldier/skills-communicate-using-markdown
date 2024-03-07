@@ -8,4 +8,9 @@ A simple list comprehension like this:
 mylist = [i for i in range(1,10)]
 ```
 
+Check the task list:
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 #### Here is an image ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
